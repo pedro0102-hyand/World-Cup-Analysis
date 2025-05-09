@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+torchvision
+json5
+
+
